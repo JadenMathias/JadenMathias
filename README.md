@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JadenMathias
-- 👀 I’m interested in coding, swimming, gaming, and designing!
-- 🌱 I’m currently finishing up my Final Year of Computer Science @ McMaster University
+- 👀 I’m interested in cooking, coding, swimming, gaming, and designing!
+- 💻 I’m currently a SDE II at AMD
 - 📫 How to reach me: mathias.jaden@gmail.com
 
 <!---
