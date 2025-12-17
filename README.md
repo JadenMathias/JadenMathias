@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadenMathias
+- 👋 Hi, I’m Jaden Mathias
 - 👀 I’m interested in cooking, coding, swimming, gaming, and designing!
 - 💻 I’m currently a SDE II at AMD
 - 📫 How to reach me: mathias.jaden@gmail.com
